@@ -1,0 +1,25 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "belt_diameter": "64",
+            "belt_thickness": "0.8",
+            "belt_width": "5"
+        },
+        "m3echo_d60w5t1": {
+            "belt_diameter": "60",
+            "belt_thickness": "1",
+            "belt_width": "5"
+        },
+        "m3echo_d63_w5t1": {
+            "belt_diameter": "63",
+            "belt_thickness": "1",
+            "belt_width": "5"
+        },
+        "m3echo_d65w5t08": {
+            "belt_diameter": "65",
+            "belt_thickness": "0.8",
+            "belt_width": "5"
+        }
+    },
+    "fileFormatVersion": "1"
+}
